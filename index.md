@@ -1,10 +1,19 @@
-## Welcome to GitHub Pages
+## Beavers!
+
+Beavers are a blah.
+
+PICTURE HERE
 
 You can use the [editor on GitHub](https://github.com/SophiaGoldberg/beavers/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Funny Facts
+
+1. A group of beavers is called a 'Colony'. 
+2. Baby beavers are called 'kits'. 
+3. They have huge orange teeth – but not because they're rotten! 
+4. Using these impressive teeth to chew through trees, beavers can create smaller branches 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
